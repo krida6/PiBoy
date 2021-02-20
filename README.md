@@ -31,6 +31,9 @@ You need to buy RPi Zero without connector. You have to solder board and RPi Zer
 ## Finish
 If you are lucky you will see something like this.
 
+<img src="images/piboy.png" alt="PiBoy"/>
+
+
 ## Configuration of Retropie
 It is strongly recommended to configure static IP adress on device. You can find it here (Setting Static IP):
 https://www.instructables.com/Make-Joystic-for-Retropie/
